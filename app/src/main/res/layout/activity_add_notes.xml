@@ -13,12 +13,11 @@
     <EditText
         android:id="@+id/titleET"
         android:layout_width="300dp"
-        android:layout_height="50dp"
+        android:layout_height="60dp"
         android:layout_margin="10dp"
         android:hint="Title"
-        android:text="Avengers"
         android:padding="10dp"
-        />
+        android:text="Avengers" />
 
     <EditText
         android:id="@+id/descET"
